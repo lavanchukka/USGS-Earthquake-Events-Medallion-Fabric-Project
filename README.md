@@ -1,4 +1,4 @@
-# USGS Earthquakes - MS Fabric Medallion Project
+# USGS Earthquake Events - MS Fabric Medallion Project
 ![MSFabric](https://img.shields.io/badge/MS%20Fabric-Data%20Engineer-lightgreen)
 ![MSFabric](https://img.shields.io/badge/Dataflow%20Gen2-blue)
 ![MSFabric](https://img.shields.io/badge/Notebooks-grey)
