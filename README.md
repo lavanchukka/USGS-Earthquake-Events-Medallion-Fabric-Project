@@ -1,4 +1,13 @@
 # USGS Earthquakes - MS Fabric Medallion Project
+![MSFabric](https://img.shields.io/badge/MS%20Fabric-Data%20Engineer-lightgreen)
+![MSFabric](https://img.shields.io/badge/Dataflow%20Gen2-blue)
+![MSFabric](https://img.shields.io/badge/Notebooks-grey)
+![MSFabric](https://img.shields.io/badge/Lakehouse-blue)
+![MSFabric](https://img.shields.io/badge/Medallion%20Architecture-grey)
+![MSFabric](https://img.shields.io/badge/Data%20Warehouse-blue)
+![MSFabric](https://img.shields.io/badge/Semantic%20model-grey)
+![MSFabric](https://img.shields.io/badge/PowerBI-yellow)
+
 ### <ins>Overview</ins>
 This Project 
 
