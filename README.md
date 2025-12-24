@@ -14,7 +14,7 @@ This Project
 Ingest Earthquake events data from [usgs](https://earthquake.usgs.gov/)
 
 
-### <ins>Architecture</ins>
+### 📐<ins>Architecture</ins>
 
 <img width="1739" height="437" alt="USGS Architecture" src="https://github.com/user-attachments/assets/b3e61d96-73b9-47f1-b187-2a7ccff78e52" />
 
@@ -48,7 +48,7 @@ Ingest Earthquake events data from [usgs](https://earthquake.usgs.gov/)
 15)	 Create a map visual and add the country code to the map, significance to the bubble size. Customize the colors based on significance.
 16)	Add a date range filter and significance filter.
 17)	Create a card visual for number of earthquake events.
-18)	Save the report as earthquake_events_report
+18)	Save the report as earthquake_events_report.
 
 ### vi) <ins>Data Factory</ins>
 
