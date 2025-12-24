@@ -51,4 +51,11 @@ Ingest Earthquake events data from [usgs](https://earthquake.usgs.gov/)
 18)	Save the report as earthquake_events_report.
 
 ### vi) <ins>Data Factory</ins>
+19)	Create a pipeline and add notebooks bronze, silver and gold.
+20)	Configure the base parameters dynamic start_date and end_date for all the 3 notebooks.
+   	```
+    Start_date: @formatDateTime(adddays(utcNow(), -1), 'yyyy-mm-dd')
+   	End_date: @formatDateTime(utcNow(), 'yyyy-mm-dd')
+22)	Run the pipeline earthquake_events_pl.
+
 
